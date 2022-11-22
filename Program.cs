@@ -14,16 +14,18 @@ namespace Lecture_15_ForEach_Break_Continue
 
         } // Main
 
-        // ForEach
-        // What is the syntax
-        // What word replaces needing the index to access an element
-        // What can't you do with a foreach, that you can with a for loop
+        // ForEach
+        // What is the syntax
+        // Unlike a for loop, a ForEach does not need a _______ to access an arrays elements.
+        // Because of that you cannot _______ values in an array.
+        // Also you could not easily return a _______ from a linear search
 
-        // Continue
-        // What does it do
 
-        // Break
-        // What does it do
+        // Continue
+        // We use continue when we want our loop to _______
+
+        // Break
+        // We use break when we want to _________ _____ of our loop
 
     } // class
 
